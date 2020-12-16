@@ -1,0 +1,7 @@
+D:\Spl Day2 Assignment\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+D:\Spl Day2 Assignment\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe
+D:\Spl Day2 Assignment\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.pdb
+D:\Spl Day2 Assignment\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csprojAssemblyReference.cache
+D:\Spl Day2 Assignment\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+D:\Spl Day2 Assignment\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.exe
+D:\Spl Day2 Assignment\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.pdb
