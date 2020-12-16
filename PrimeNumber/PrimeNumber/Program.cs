@@ -31,6 +31,7 @@ namespace PrimeNumber
                 }
             }
             Console.ReadLine();
+            Console.WriteLine("Tanya");
         }
     }
 }
