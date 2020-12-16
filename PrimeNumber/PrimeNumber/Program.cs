@@ -32,6 +32,7 @@ namespace PrimeNumber
             }
             Console.WriteLine("Tharanya");
             Console.ReadLine();
+            Console.WriteLine("Tanya");
         }
     }
 }
